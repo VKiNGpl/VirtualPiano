@@ -1,0 +1,19 @@
+body {
+    background-color: #323232;
+}
+
+kbd {
+    background-color: white;;
+    display: inline-block;
+    border: 2px solid grey;
+    max-height: 196px;
+    width: 50px;
+    padding: 150px 0 31px;
+}
+
+.container {
+    text-align: center;
+    width: 378px;
+    margin: 200px auto;
+    height: 200px;
+}
