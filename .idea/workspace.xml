@@ -14,7 +14,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f664567-e619-46ea-9d80-5c54d0d289f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Virtual Piano/task/src/audio/A.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Piano/task/src/audio/D.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Piano/task/src/audio/F.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Piano/task/src/audio/G.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Piano/task/src/audio/H.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Piano/task/src/audio/J.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Piano/task/src/audio/S.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/Add markup/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Add markup/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/Application functionality/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Application functionality/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/Application functionality/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Application functionality/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/Let there be music/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Let there be music/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/Let there be music/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Let there be music/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/Page styling/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Page styling/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/Page styling/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Page styling/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/task/hstest/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/task/hstest/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/task/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/task/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +55,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.17.0" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Virtual Piano/task/src" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/Virtual Piano/task/src" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,6 +76,10 @@
       <workItem from="1598666536057" duration="117000" />
       <workItem from="1598668061080" duration="1126000" />
       <workItem from="1598812436157" duration="4033000" />
+      <workItem from="1599023176348" duration="943000" />
+      <workItem from="1599024338454" duration="371000" />
+      <workItem from="1599024840251" duration="966000" />
+      <workItem from="1599026762675" duration="210000" />
     </task>
     <servers />
   </component>
@@ -68,26 +96,43 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="670" height="266" key="GridCell.Tab.0.bottom" timestamp="1598850368200">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="441" y="60" key="#CSS" timestamp="1599024628388">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="441" y="60" key="#CSS/0.0.1366.728@0.0.1366.728" timestamp="1599024628388" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1599025998517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1599025998517" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599025941250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599025941250" />
+    <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1599024133546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599024133546" />
     <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598668530663" />
     <state width="670" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598850368200" />
-    <state width="670" height="266" key="GridCell.Tab.0.center" timestamp="1598850368200">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1308" height="163" key="GridCell.Tab.0.center" timestamp="1599024133545">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1308" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599024133545" />
     <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598668530663" />
     <state width="670" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598850368200" />
-    <state width="670" height="266" key="GridCell.Tab.0.left" timestamp="1598850368199">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1308" height="163" key="GridCell.Tab.0.left" timestamp="1599024133545">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1308" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599024133545" />
     <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598668530663" />
     <state width="670" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598850368199" />
-    <state width="670" height="266" key="GridCell.Tab.0.right" timestamp="1598850368200">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1308" height="163" key="GridCell.Tab.0.right" timestamp="1599024133545">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1308" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599024133545" />
     <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598668530663" />
     <state width="670" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598850368200" />
     <state x="1920" y="279" key="Vcs.Push.Dialog.v2" timestamp="1598850014406">
